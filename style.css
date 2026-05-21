@@ -124,6 +124,7 @@ h4{
 }
 .lorem-total{
     display: flex;
+    gap:150px ;
 }
 .p-three{
     font-size: 70px;
