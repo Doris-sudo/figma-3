@@ -1,0 +1,630 @@
+*{
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}
+
+.digital{
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 200px;
+    /* background-color: blue; */
+    padding: 20px;
+    padding-left: 50px;
+}
+.image-one{
+    width: 30%;
+}
+ul{
+    display: flex;
+    gap: 60px;
+    list-style: none;
+    font-size: 15px;
+    padding-top: 20px;
+    /* font-family: monospace; */
+}
+.project{
+    padding-top: 200px;
+    padding-left: 50px;
+    
+}
+h4{
+    color: grey;
+    font-size: 40px;
+}
+.image-two{
+    display: flex;
+    gap: 20px;
+    padding-left: 50px;
+    padding-top: 100px;
+    /* background-color: black; */
+}
+.image-three{
+    padding-left: 50px;
+    padding-top: 100px;
+
+}  
+
+
+
+.image-four{
+    padding-left: 600px;
+    padding-right: 30px;
+    position: absolute;
+    
+}
+.view{
+    padding-right: 400px;
+    position: relative;
+    bottom: 75px;
+
+}
+.rect{
+    width: 100%;
+}
+.image-five{
+    /* width: 80%; */
+    padding-top: 200px;
+    padding-left: 50px;
+    
+}
+.main-a{
+    display: grid;
+}
+.main{
+    color: rgb(219, 217, 217);
+    /* font-family: monospace; */
+    font-size: 60px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.send{
+    height: 50px;
+    background: black;
+    text-align: center;
+    margin-left: 100px;
+    color: white;
+    position: relative;
+    top: 300px;
+    width: 200px;
+
+
+}
+.lorem-one{
+    display: flex;
+    gap: 50px;
+    padding-left: 50px;
+    /* font-family: monospace; */
+}
+.one{
+    font-size: 200px;
+    color: rgb(219, 217, 217);
+}
+.p-f{
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 60px;
+}
+.lorem-two{
+   display: flex;
+    gap: 50px;
+    padding-left: 50px;
+    /* font-family: monospace;  */
+    padding-left: 150px;
+    
+}
+.two{
+   font-size: 200px;
+   color: rgb(219, 217, 217); 
+}
+.p-two{
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 60px;
+}
+.lorem-total{
+    display: flex;
+}
+.p-three{
+    font-size: 70px;
+    color: rgb(219, 217, 217);
+    padding-left: 50px;
+    padding-top: 100px;
+}
+.image-six{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.p-four{
+    color: white;
+    background-color: black;
+    font-family: monospace;
+    border-style: groove;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    /* padding-left: 1000px; */
+    margin-left: 1000px;
+    margin-right: 50px;
+    margin-top: 30px;
+    
+}
+.image-seven{
+    padding-left: 50px;
+    padding-top: 200px;
+}
+
+
+
+.footer{
+    width: 100%;
+    padding-top: 100px;
+    margin-bottom: -20px;
+}
+.input{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    
+}
+.input-two{
+    display: grid;
+    row-gap: 10px;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+.image-seven{
+    /* padding-right: 80px; */
+    width: 90%;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+#name{
+    background-color: rgb(230, 229, 229);
+    width: 20pc;
+    height: 50px;
+    padding-left: 20px;
+}
+#number{
+    background-color: rgb(230, 229, 229);    
+    width: 20pc;
+    height: 50px;
+    padding-left: 20px;
+} 
+#email{
+    background-color: rgb(230, 229, 229);    
+    width: 20pc;
+    height: 50px;
+    padding-left: 20px;
+} 
+#interest{
+    background-color: rgb(230, 229, 229);    
+    width: 20pc;
+    height: 50px;
+    padding-left: 20px;
+}
+#message{
+    background-color: rgb(230, 229, 229);
+    width: 20pc;
+    height: 100px;
+    padding-left: 20px;
+    position: relative;
+    
+}
+.us{
+    color: rgb(199, 198, 198);
+    padding-left: 100px; 
+    font-size: 60px;
+    padding-top: 200px;
+    font-family: monospace;
+}
+.three-section{
+    background-color: black;
+    margin-top: 200px;
+    padding-bottom: 50px;
+    position: relative;
+    top: 500px;
+}
+.four-section{
+    background-color: black;
+    border-style: groove;
+    border-width: 0.5px;
+    border-color: rgb(199, 198, 198);
+    height: 30px;
+    border-right: 0cap;
+    border-left: 0cap;
+    color: rgb(199, 198, 198);
+    text-align: center;
+    padding-top: 30px;
+    position: relative;
+    top: 500px;
+}
+.image-eight{
+    padding-left: 50px;
+    padding-top: 50px;
+    width: 50%;
+}
+.image-eight{
+    background-image: url(image/background.png);
+    font-size: 30px;
+    color: white;
+    text-align: left;
+    margin-left: 50px;
+    width: 50%;
+    height: 250px;
+}
+.p-five{
+    font-size: 20px;
+}
+.image-nine{
+    margin-left: 10px;
+    width: 90%;
+    height: 300px;
+}
+.two-images{
+    display: flex;
+    gap: 20px;
+}
+.image-ten{
+    display: flex;
+    gap: 28px;
+    width: 50%;
+    margin-left: 50px;
+    padding-right: 5px;
+    margin-top: 30px;
+}
+.third-section{
+    background-color: rgb(249, 247, 247);
+    margin: 50px;
+    margin-top: 200px;
+}
+.image-twelve{
+    display: flex;
+    gap: 20px;
+    /* padding-top: 80px; */
+    padding-bottom: 90px;
+    position: relative;
+    top: 130px;
+}
+.image-thirteen{
+    display: grid;
+    gap: 20px;
+    padding-left: 100px;
+}
+.p-six{
+    font-size: 60px;
+    color: rgb(199, 198, 198);
+}
+.p-seven{
+    line-height: 30px;
+    padding-top: 20px;
+} 
+.eleven{
+    width: 30%;
+}
+.dive-one{
+    display: flex;
+    gap: 100px;
+    padding-top: 20px;
+    padding-left: 100px;
+}
+.div-two{
+    padding-top: 70px;
+    padding-left: 100px;
+    font-size: 30px;
+    line-height: 50px;
+}
+.p-one{
+  font-size: 50px; 
+  color: rgb(199, 198, 198); 
+}
+.div-three{
+    display: flex;
+    gap: 20px;
+    padding-left: 70px;
+    padding-top: 70px;
+}
+.div-four{
+    display: flex;
+    gap: 20px;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+.div-five{
+    padding-left: 80px;
+    padding-top: 70px;
+}
+.section-two{
+    background-color: black;
+    margin-top: 100px;
+    padding-bottom: 50px;
+}
+.div-six{
+    
+    display: flex;
+    gap: 150px;
+    padding-left: 50px;
+}
+.eleven-two{
+    /* background-color: white; */
+    width: 80px;
+    padding-left: 70px;
+    padding-top: 70px;
+}
+.div-seven{
+    color: white;
+    padding-left: 70px;
+    padding-top: 70px;
+    display: flex;
+    gap: 150px;
+}
+.div-eight{
+    display: flex;
+    color: white;
+}
+.div-nine{
+    color: white;
+    padding-left: 420px;
+    padding-top: 5px;
+    line-height: 30px;
+}
+.div-ten{
+    display: grid;
+    gap: 12px;
+    font-size: 10px;
+
+}
+.vector{
+    width: 10px;
+    height: 10px;
+    padding-left: 180px;
+}
+.group{
+    width: 10px;
+    height: 10px;
+    padding-left: 180px;
+    padding-top: 70px;
+}
+.vector-one{
+    padding-left: 180px;
+    padding-top: 50px;
+}
+.div-eleven{
+    padding-left: 10px;
+    /* padding-bottom: 20px; */
+    line-height: 50px;
+}
+.p-eight{
+    line-height: 10px;
+}
+.p-nine{
+    padding-top: 20px;
+    line-height: 130px;
+}
+.div-twelve{
+    display: flex;
+    gap: 30px;
+    padding-left: 60px;
+    
+}
+.social{
+    width: 15px;
+    height: 15px;
+}
+.section-three{
+    background-color: black;
+    border-style: groove;
+    border-width: 0.5px;
+    border-color: rgb(199, 198, 198);
+    height: 30px;
+    border-right: 0cap;
+    border-left: 0cap;
+    color: rgb(199, 198, 198);
+    text-align: center;
+    padding-top: 30px;
+}
+.one-image{
+    width: 80px;
+}
+.one-div{
+    display: flex;
+    gap: 300px;
+    padding-top: 20px;
+    padding-left: 100px;
+}
+.two-div{
+    padding-left: 100px;
+    font-size: 50px;
+    padding-top: 100px;
+}
+.one-p{
+    color: rgb(199, 198, 198);
+}
+h1{
+    font-size: 50px;
+}
+.three-div{
+    display: grid;
+    display: flex;
+    gap: 20px;
+    padding-top: 2px;
+    /* padding-left: 2px; */
+    padding-right: 100px;
+    background-color: rgb(238, 237, 237);
+    margin-right: 80px;
+    margin-left: 80px;
+    /* width: 80%; */
+    padding-left: 20px;
+    
+    
+    
+    
+}
+.six-div{
+    display: flex;
+    gap: 150px;
+    padding-left: 50px;
+}
+.two-image{
+    width: 30pc;
+    height: 23pc;
+}
+.two-p{
+    font-size: 50px;
+    color: rgb(199, 198, 198);
+    padding-top: 30px;
+    padding-right: 20px;
+    
+}
+.three-p{
+    /* font-size: 20px; */
+    padding-top: 70px;
+    line-height: 20px;
+
+}
+#view{
+    background-color: white;
+    height: 30px;
+    padding-left: 50px;
+    margin-top: 70px;
+    border-radius: 5px;
+}
+.four-div{
+    display: grid;
+    display: flex;
+    gap: 20px;
+    padding-top: 2px;
+    /* padding-left: 2px; */
+    padding-right: 100px;
+    background-color: rgb(238, 237, 237);
+    margin-right: 80px;
+    margin-left: 80px;
+    /* width: 80%; */
+    padding-left: 20px;
+    margin-top: 50px;
+}
+.three-image{
+    width: 30pc;
+    height: 23pc;
+}
+.four-p{
+    font-size: 50px;
+    color: rgb(199, 198, 198);
+    padding-top: 30px;
+    padding-right: 20px;
+}
+.five-p{
+    padding-top: 70px;
+    line-height: 20px;
+}
+.img-one{
+    width: 80%;
+    /* height: 50%; */
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+}
+.c-div{
+    display: flex;
+    gap: 40px;
+    padding-left: 95px;
+    padding-right: 150px;
+    padding-top: 50px;
+
+}
+.img-two{
+    width: 100%;
+    
+}
+.a-p{
+    font-size: 14px;
+    line-height: 25px;
+}
+.img-three{
+    width: 80%;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+}
+.two-section{
+    background-color: black;
+    margin-top: 500px;
+    padding-bottom: 50px;
+}
+.e-div{
+    line-height: 15px;
+    padding-left: 100px;
+    padding-top: 50px;
+    font-size: 20px;
+}
+.a-h{
+    font-size: 20px;
+}
+.c-p{
+    font-size: 15px;
+}
+.b-h{
+    padding-top: 50px;
+    font-size: 20px;
+    padding-left: 200px;
+
+}
+.b-p{
+   padding-top: 50px; 
+}
+#us{
+    background-color: black;
+    height: 50px;
+    width: 200px;
+    margin-left: 95px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
+.flex{
+    display: flex;
+    /* gap: 500px */
+    padding-bottom: 50px;
+}
+.img-two{
+    width: 80%;
+    padding-top: 50px;
+    padding-left: 180px;
+    height: 95%;
+}
+.nineteen{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+    
+
+    
+
+
+
+
+    
